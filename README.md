@@ -1,1 +1,1 @@
-# bbs
+# 点击Discussions栏目畅聊吧！
